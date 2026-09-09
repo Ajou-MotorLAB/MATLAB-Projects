@@ -1,2 +1,21 @@
-# MATLAB-Projects
-MATLAB and Simulink student projects
+# 매트랩, 시뮬링크 파일 저장소입니다. (2026.09.09 윤재빈 작성)
+
+## 폴더 구조
+
+- `common/`: 공통 예제, 라이브러리 및 템플릿
+- `students/`: 학생별 MATLAB/Simulink 프로젝트
+- `docs/`: 연구실 공통 문서
+
+## 작업 방법
+
+1. 작업 전 Fetch/Pull을 수행합니다.
+2. 개인 작업용 Branch를 생성합니다.
+3. 자신의 학생 폴더에서 작업합니다.
+4. MATLAB 및 Simulink 생성 파일은 업로드하지 않습니다.
+5. 작업 단위별로 Commit하고 Push합니다.
+6. 주요 작업이 완료되면 Pull Request를 생성합니다.
+
+## 기본 환경
+
+- MATLAB: R2026a (향후 최신버전 업데이트 필요)
+- Target: TI C2000 F28379D
