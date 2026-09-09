@@ -1,0 +1,27 @@
+# MATLAB temporary files
+*.asv
+*.autosave
+*.m~
+
+# Simulink cache and generated code
+slprj/
+*_ert_rtw/
+*.slxc
+codegen/
+
+# C2000 generated build outputs
+*.obj
+*.map
+*.out
+*.hex
+
+# Local machine configuration
+local_config.m
+
+# Large experimental outputs
+logs/
+captures/
+
+# Windows temporary files
+Thumbs.db
+Desktop.ini
